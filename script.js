@@ -116,6 +116,7 @@ loader.load("./assets/car_3d_model.glb", (gltf) => {
         },
     });
 
+
     animate();
 });
 
